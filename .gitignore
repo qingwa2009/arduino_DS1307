@@ -1,0 +1,4 @@
+﻿**/*.workspace
+**/Project Backups/**
+**/debug/**
+**/bin/**
